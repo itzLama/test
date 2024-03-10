@@ -1,5 +1,5 @@
 package lap_mid1;
-
+//Lama
 public class BankTransfer extends payment{
 
 	private String BankName;
